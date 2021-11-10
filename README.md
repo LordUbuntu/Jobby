@@ -4,5 +4,5 @@ A Job Notification App
 # Participants
 
 - Jacobus Burger
-- _
+- Jimmy Kha
 - _
