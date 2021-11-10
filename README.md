@@ -5,4 +5,4 @@ A Job Notification App
 
 - Jacobus Burger
 - Jimmy Kha
-- _
+- Yaacov Kochatkov
