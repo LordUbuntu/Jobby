@@ -6,3 +6,8 @@ A Job Notification App
 - Jacobus Burger
 - Jimmy Kha
 - Yaacov Kochatkov
+
+# Environment
+
+- Python 3.10
+- Python packages (see requirements.txt)
