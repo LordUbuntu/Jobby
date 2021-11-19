@@ -11,3 +11,4 @@ A Job Notification App
 
 - Python 3.10
 - Python packages (see requirements.txt)
+- npm package: create-react-app
